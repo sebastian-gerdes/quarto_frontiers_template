@@ -1,1 +1,12 @@
 .DS_Store
+.Rproj.user
+Frontiers_LaTeX_Templates
+quarto_frontiers_template.Rproj
+te.bst
+template.aux
+template.bbl
+template.blg
+template.log
+template.pdf
+template.synctex.gz
+template.tex

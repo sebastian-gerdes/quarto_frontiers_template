@@ -22,7 +22,7 @@
 \DeclareOption{info}{\PassOptionsToPackage{info}{crop}}
 \DeclareOption{noinfo}{\PassOptionsToPackage{noinfo}{crop}}
 \DeclareOption{final}{\global\@finaltrue}
-\DeclareOption{utf8}{\PassOptionsToPackage{utf8}{inputenc}}
+%\DeclareOption{utf8}{\PassOptionsToPackage{utf8}{inputenc}}
 
 \ExecuteOptions{a4paper,nocrop,centre,info,paper}
 

@@ -3,7 +3,7 @@ title: "Demo aft format to use as template"
 format:
   frontiers-pdf:
     keep-tex: true  
-  frontiers-html: default
+  # frontiers-html: default
 author:
   - name: John Doe
     affiliations:
