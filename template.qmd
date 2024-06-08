@@ -1,9 +1,9 @@
 ---
 title: "Demo aft format to use as template"
 format:
-  aft-pdf:
+  frontiers-pdf:
     keep-tex: true  
-  aft-html: default
+  frontiers-html: default
 author:
   - name: John Doe
     affiliations:
